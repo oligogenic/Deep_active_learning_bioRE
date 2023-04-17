@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nachtegael"
+  given-names: "Charlotte"
+  orcid: "https://orcid.org/0000-0002-5034-8975"
+- family-names: "De Stefani"
+  given-names: "Jacopo"
+  orcid: "https://orcid.org/0000-0003-0257-4537"
+- family-names: "Lenaerts"
+  given-names: "Tom"
+  orcid: "https://orcid.org/0000-0003-3645-1455"
+title: "Deep active learning for biomedical Relation Extraction"
+version: 1.0.0
+doi: 10.5281/zenodo.7836963
+date-released: 2023-04-17
+url: "https://github.com/oligogenic/Deep_active_learning_bioRE"
