@@ -10,8 +10,31 @@ authors:
 - family-names: "Lenaerts"
   given-names: "Tom"
   orcid: "https://orcid.org/0000-0003-3645-1455"
-title: "Deep active learning for biomedical Relation Extraction"
+title: "A study of deep active learning methods to reduce labelling efforts in biomedical relation extraction"
 version: 1.0.0
 doi: 10.5281/zenodo.7836963
 date-released: 2023-04-17
 url: "https://github.com/oligogenic/Deep_active_learning_bioRE"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Nachtegael"
+    given-names: "Charlotte"
+    orcid: "https://orcid.org/0000-0002-5034-8975"
+  - family-names: "De Stefani"
+    given-names: "Jacopo"
+    orcid: "https://orcid.org/0000-0003-0257-4537"
+  - family-names: "Lenaerts"
+    given-names: "Tom"
+    orcid: "https://orcid.org/0000-0003-3645-1455"
+  doi: "10.1371/journal.pone.0292356"
+  journal: "PLOS ONE"
+  publisher: "Public Library of Science"
+  title: "A study of deep active learning methods to reduce labelling efforts in biomedical relation extraction"
+  year: 2023
+  month: 12
+  volume: 18
+  url: "https://doi.org/10.1371/journal.pone.0292356"
+  start: 1
+  end: 23
+  issue: 12

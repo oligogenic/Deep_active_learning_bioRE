@@ -1,6 +1,6 @@
 # Deep active learning for biomedical relation extraction
 
-Code and data to study deep active learning for biomedical relation extraction (bioRE).
+Code and data to study deep active learning for biomedical relation extraction (bioRE), article can be found [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292356).
 
 Data sets can be found in the [data](/data/) folder.
 
@@ -24,7 +24,6 @@ This project was realised at the Interuniversity Institute of Bioinformatics in 
 ## License
 
 This work is under a MIT license.
-
 
 ## Cite us
 
