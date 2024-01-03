@@ -1,4 +1,4 @@
-# Deep active learning for biomedical relation extraction [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7836963.svg)](https://doi.org/10.5281/zenodo.7836963)
+# Deep active learning for biomedical relation extraction [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10454561.svg)](https://doi.org/10.5281/zenodo.10454561)
 
 Code and data to study deep active learning for biomedical relation extraction (bioRE), article can be found [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292356).
 
